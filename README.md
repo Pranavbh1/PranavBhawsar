@@ -1,7 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset=""https://cdn.analyticsvidhya.com/wp-content/uploads/2023/04/Data-Science-Innovations.jpeg"">
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.analyticsvidhya.com/wp-content/uploads/2023/04/Data-Science-Innovations.jpeg">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://cdn.analyticsvidhya.com/wp-content/uploads/2023/04/Data-Science-Innovations.jpeg">
+  <img alt="Shows an Picture of DATA SCIENCE." src="https://cdn.analyticsvidhya.com/wp-content/uploads/2023/04/Data-Science-Innovations.jpeg">
 </picture>
 
 ### Hi there. I'm Pranav Bhawsar 🧑
@@ -12,7 +12,7 @@
 - 📫 How to find me: 👓 
   - :office: [LinkedIn](https://www.linkedin.com/in/Pranavbhawsar/)
   - 📞 : p8982667641@gmail.com
--🏆 Got AIR6 in 6th Gkart Design challange(22-27 feb 2019)🥇
+-🏆 Got AIR6 (Team - Rustle) in 6th Gkart Design challange(22-27 feb 2019)🥇
    - : Held at Buddha International Circuit (Greator Noida)
    - : Organised by ISNEE(Indian Society of new Era Engineers) 
 - 💬 Ask me about Artificial Intelligence and Programming and Automobile
