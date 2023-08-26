@@ -1,4 +1,4 @@
-### Hi there. I'm Pranav 🧑
+### Hi there. I'm Pranav Bhawsar 🧑
 
 - ✒ My devotion is Motorsport ,  Math and Programming💻 💡
 - 🧠🖱 I’m addicted to learn and grow every day 🕵️‍♀️
