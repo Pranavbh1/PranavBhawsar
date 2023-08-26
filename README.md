@@ -27,11 +27,7 @@
 
 
 ---
-Arise, awake and do not stop until the goal is reached.
+> Arise, awake and do not stop until the goal is reached.
+
 — Pranav(Follower of SWAMI VIVEKANANDA)
-
----
-> If we pull together and commit ourselves, then we can push through anything.
-
-— Mona the Octocat
 
