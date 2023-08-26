@@ -5,7 +5,7 @@
 </picture>
 
 ### Hi there. I'm Pranav Bhawsar 🧑
-
+🎗️Over NOOB TO PRO DATA SCIENTIST🎗️
 - ✒ My devotion is Motorsport ,  Math and Programming💻 💡
 - 🧠🖱 I’m addicted to learn and grow every day 🕵️‍♀️
 - 💊I am currently collecting knowledge to become DATA SCIENTIST (preferring 🛠 Mechanical stream for DATA SCIENTIST)💉
