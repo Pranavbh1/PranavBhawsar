@@ -27,7 +27,7 @@
 
 
 ---
-> Arise, awake and do not stop until the goal is reached.
+> Knowledge is power. We all agree to that. Knowledge is the manifestation of power already inside in man.
 
 — Pranav(Follower of SWAMI VIVEKANANDA)
 
