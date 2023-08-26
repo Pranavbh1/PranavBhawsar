@@ -28,5 +28,5 @@
 
 ---
 Arise, awake and do not stop until the goal is reached.
--Pranav(Follower of SWAMI VIVEKANANDA)
+— Pranav(Follower of SWAMI VIVEKANANDA)
 
