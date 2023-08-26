@@ -4,7 +4,7 @@
 - 🧠🖱 I’m addicted to learn and grow every day 🕵️‍♀️
 - 💊I am currently collecting knowledge to become DATA SCIENTIST (preferring 🛠 Mechanical stream for DATA SCIENTIST)💉
 - 📫 How to find me: 👓 
-  - :office: [LinkedIn](www.linkedin.com/in/pranav-bhawsar-996328166)
+  - :office: [LinkedIn](https://www.linkedin.com/in/Pranavbhawsar/)
   - 📞 : p8982667641@gmail.com
 -🏆 Got AIR6 in 6th Gkart Design challange(22-27 feb 2019)🥇
    - : Held at Buddha International Circuit (Greator Noida)
