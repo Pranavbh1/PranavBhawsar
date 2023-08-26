@@ -21,7 +21,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranavbh1)](https://github.com/Pranavbh1?tab=repositories)
 
-![Profile views](https://gpvc.arturio.dev/Pranavbh1)
+![Profile views](![Profile views](https://gpvc.arturio.dev/[Pranavbh1]))
 
 </details>
 
