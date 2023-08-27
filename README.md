@@ -55,7 +55,7 @@ Machine and Deep Learning
 
 Natural Language Processing
 
-Data Visualization: Matplotlib, Tableau, Seaborn. 
+Data Visualization : Matplotlib, Tableau, Seaborn. 
 
 Data Preprocessing : NumPy, Pandas , python .
 
