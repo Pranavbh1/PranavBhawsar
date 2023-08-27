@@ -50,7 +50,13 @@ Innovative forthcoming Data Scientist with experience in WebApp Development , Da
 ### Tools | Frameworks 
 
 WebApp : Streamlit
-    
+
+Machine and Deep Learning 
+
+Natural Language Processing
+
+Data Visualization: Matplotlib, Tableau, Seaborn. 
+
 Data Preprocessing : NumPy, Pandas , python .
 
 Integrated Development Environment : Jupyter-Notebook, VScode .
