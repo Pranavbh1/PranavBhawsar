@@ -86,6 +86,7 @@ Integrated Development Environment : Jupyter-Notebook, VScode .
 
 ---
 > Knowledge is power. We all agree to that. Knowledge is the manifestation of power already inside in man.
+> Whatever makes you weak – physical, intellectual or mental. Abandon it like poison.
 
 — Pranav(Follower of SWAMI VIVEKANANDA)
 
