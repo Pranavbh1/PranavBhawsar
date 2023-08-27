@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm a Data Scientist & Mechanical Engineer
 =====================================
 
-💡Career Objective💡 :- Seeking an entry-level position as a :green[Data Scientist] where I can gain hands-on experience while developing cutting-edge solutions for the organization’s needs.
+💡Career Objective💡 :- Seeking an entry-level position as a Data Scientist where I can gain hands-on experience while developing cutting-edge solutions for the organization’s needs.
 ------------------------------------
 
 ![](https://komarev.com/ghpvc/?username=Pranavbh1&label=PROFILE+VIEWS)
