@@ -59,7 +59,8 @@ Integrated Development Environment: Jupyter-Notebook, VScode .
 
 <a href="http://www.github.com/Pranavbh1"><img src="https://activity-graph.herokuapp.com/graph?username=Pranavbh1&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranavbh1)](https://github.com/Pranavbh1?tab=repositories">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranavbh1)](https://github.com/Pranavbh1?tab=repositories)
+
 
 ### Support Me
 
