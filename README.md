@@ -17,15 +17,22 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <p align="left"> <a href="https://www.github.com/Pranavbh1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /><a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=pranavbhawsar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
 
 
-Innovative forthcoming Data Scientist with experience in WebApp Development , Data Scienceand Mechanical Engineering(specialisation in Mechatronics). 
+Innovative forthcoming Data Scientist with experience in WebApp Development , Data Science and Mechanical Engineering(specialisation in Mechatronics). 
 
 🎗️Over NOOB TO PRO DATA SCIENTIST🎗️
+
 • ✒ My devotion is Motorsport ,  Math and Programming💻 💡
+
 • 🧠🖱 I’m addicted to learn and grow every day 🕵️‍♀️
+
 • 💊I am currently collecting knowledge to become DATA SCIENTIST (preferring 🛠 Mechanical stream for DATA SCIENTIST)💉
+
 • 🏆 Got AIR6 (Team - Rustle) in 6th Gkart Design challange(22-27 feb 2019)🥇
+    
     -  Held at Buddha International Circuit (Greator Noida)
+    
     -  Organised by ISNEE(Indian Society of new Era Engineers) 
+
 • 💬 Ask me about Artificial Intelligence and Programming and Automobile.
 
 
