@@ -51,9 +51,9 @@ Innovative forthcoming Data Scientist with experience in WebApp Development , Da
 
 WebApp : Streamlit
     
-Data Preprocessing: NumPy, Pandas , python .
+Data Preprocessing : NumPy, Pandas , python .
 
-Integrated Development Environment: Jupyter-Notebook, VScode .
+Integrated Development Environment : Jupyter-Notebook, VScode .
 
 
 ### Badges
