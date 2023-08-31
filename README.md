@@ -29,7 +29,7 @@ Innovative forthcoming Data Scientist with experience in WebApp Development , Da
 
 • 💊I am currently collecting knowledge to become DATA SCIENTIST (preferring 🛠 Mechanical stream for DATA SCIENTIST)💉
 
-• 🏆 Got AIR6 (Team - Rustle) in 6th Gkart Design challange(22-27 feb 2019)🥇
+• 🏆 Got AIR7 (Team - Rustle) in 6th Gkart Design challange(22-27 feb 2019)🥇
     
     -  Held at Buddha International Circuit (Greator Noida)
     
