@@ -23,7 +23,7 @@ Innovative forthcoming Data Scientist with experience in WebApp Development , Da
 
 🎗️Over NOOB TO PRO DATA SCIENTIST🎗️
 
-• ✒ My devotion is Motorsport ,  Math and Programming💻 💡
+• ✒ My devotion is in Motorsport ,  Math and Programming💻 💡
 
 • 🧠🖱 I’m addicted to learn and grow every day 🕵️‍♀️
 
