@@ -53,6 +53,8 @@ Innovative forthcoming Data Scientist with experience in WebApp Development , Da
 
 WebApp : Streamlit
 
+Data Collection : Web Scrapping , Regular Expressions
+
 Machine and Deep Learning 
 
 Natural Language Processing
