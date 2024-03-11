@@ -3,7 +3,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm a Data Scientist & Mechanical Engineer
 =====================================
 
-💡Data Science Trainee💡 with expertise in Python, SQL, Power BI, and exploratory dataanalysis (EDA). Proficient in web scraping techniques and adept at utilizing machine learning algorithms to derive insights from data. Completed a comprehensive internship as a DataScientist intern, gaining hands-on experience in applying advanced analytical methods to solve business challenges.
+💡Data Science Trainee💡 with expertise in Python, SQL, Power BI, and exploratory data analysis (EDA). Proficient in web scraping techniques and adept at utilizing machine learning algorithms to derive insights from data. Completed a comprehensive internship as a DataScientist intern, gaining hands-on experience in applying advanced analytical methods to solve business challenges.
 ------------------------------------
 
 ![](https://komarev.com/ghpvc/?username=Pranavbh1&label=PROFILE+VIEWS)
